@@ -12,7 +12,7 @@ const Home: React.FC = () => {
       </div>
       <div className="w-[100%]   py-4 px-4">
         <TopActionContainer />
-        <div className="page-contents mt-4  py-4 md:px-4 flex flex-wrap   gap-5">
+        <div className="page-contents mt-4  py-4 md:px-4 lg:grid lg:grid-cols-2  gap-5">
           <Funnel />
           <Funnel />
           <Funnel />

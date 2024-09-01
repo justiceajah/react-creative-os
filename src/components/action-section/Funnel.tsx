@@ -2,7 +2,7 @@ import { ButtonText } from "../buttons/ButtonText";
 
 const Funnel = () => {
   return (
-    <div className=" sectionColor w-full  lg:min-w[250px] lg:max-w-[590px] rounded-md">
+    <div className=" sectionColor w-full  lg:min-w[250px]  rounded-md">
         <div className="page-item ">
           <div className="header-section w-full border-b-[1px] border-[#dbdbdb] px-4 py-4 flex items-center justify-between">
             {" "}
