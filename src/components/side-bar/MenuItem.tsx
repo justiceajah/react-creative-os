@@ -10,7 +10,7 @@ const MenuItem = ({
   showArrow: boolean;
 }) => {
   return (
-    <div className="menu-item py-[14px] px-4 rounded-md hover:bg-[#A259FF] hover:text-[white] cursor-pointer flex items-center justify-between text-[14px] font-[600]">
+    <div className="menu-item py-[14px] px-4 rounded-md hover:bg-[#A259FF]  hover:text-[white] cursor-pointer flex items-center justify-between text-[14px] font-[700]">
       <div className="flex items-center space-x-3 "><span className="icon">
         {svg}
       </span>{" "}

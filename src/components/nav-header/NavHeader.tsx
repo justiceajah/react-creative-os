@@ -12,7 +12,7 @@ export const NavHeader = () => {
         </div>
       </div>
       <img
-        className="header-content hamburger  lg:hidden"
+        className="header-content hamburger  mr-2 lg:hidden"
         src="./assets/menu.svg"
         alt="menu-button"
       />
