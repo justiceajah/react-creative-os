@@ -7,7 +7,7 @@ import Funnel from "./action-section/Funnel";
 const Home: React.FC = () => {
   return (
     <div className=" w-full text-black flex border-[1px] border-t-[0px]">
-      <div className="max-w-[250px] w-[20%] hidden lg:block border-[1px] border-t-[0px] h-fit">
+      <div className="max-w-[250px] w-[25%] hidden lg:block border-[1px] border-t-[0px] h-fit">
         <SideBar />
       </div>
       <div className="w-[100%]   py-4 px-4">

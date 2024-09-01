@@ -37,7 +37,7 @@ const Funnel = () => {
               </div>
 
               <img
-                className="w-full :w-[250px] md:w-[350px] md:w-[400px] h-[430px] "
+                className="w-full md:w-[350px] md:w-[400px] h-[430px] "
                 src="/assets/creative-vertical2.png"
                 alt="page png"
               />
